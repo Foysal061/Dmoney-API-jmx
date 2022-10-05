@@ -17,7 +17,7 @@
 
 
 ## Postman collection
-    https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85
+https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85
 
 ## Jmeter scripts:
     1. Write the scripts according to the postman collection
